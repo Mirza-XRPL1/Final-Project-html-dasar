@@ -1,0 +1,76 @@
+h1 {
+    color: brown;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body{
+    background-color: aqua;
+}
+
+.Namalengkap{
+    color: blue;
+}
+
+.Namapanggilan{
+    color: blueviolet;
+}
+
+.Kelas{
+    color: darkblue;
+}
+
+.Alamat{
+    color: darkviolet;
+}
+
+.Citacita{
+    color: darkmagenta;
+}
+
+.Quotefav{
+    color: brown;
+}
+
+.Hobi{
+    color: chocolate;
+}
+
+.NamachannelYouTube{
+    color: crimson;
+}
+
+.Tinggisaya{
+    color: darkcyan;
+}
+
+.Beratbadan{
+    color: darkgreen;
+}
+
+.Umursaya{
+    color: chartreuse;
+}
+
+.Makananfav{
+    color: deeppink;
+}
+
+.Minumanfav{
+    color: violet;
+}
+
+.Lagufav{
+    color: darkred;
+}
+
+.Animefav{
+    color: yellow;
+}
+
+.Gamefav{
+    color: green;
+}
+
+h1{
+    text-align: center;
+}
